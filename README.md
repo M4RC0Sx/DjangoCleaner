@@ -1,0 +1,1 @@
+Simple script to clean migrations and cache while working on a Django project.
